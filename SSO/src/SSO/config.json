@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SSO"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "server=192.168.2.118;uid=sa;pwd=123456;Database=aspnet5-SSO-39f1c196-47ab-4098-bf0a-3e36705bbfc9;Integrated Security=False;Trusted_Connection=False;MultipleActiveResultSets=true"
+    }
+  }
+}
